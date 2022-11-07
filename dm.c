@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/**
+ * done
+ */
 int main(void)
 {
 	char d;
